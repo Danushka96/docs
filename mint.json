@@ -62,9 +62,11 @@
       "pages": ["api-reference/introduction"]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Endpoints",
       "pages": [
-        "api-reference/endpoint/create"
+        "api-reference/endpoint/sendsms",
+        "api-reference/endpoint/sendbulksms",
+        "api-reference/endpoint/stats"
       ]
     }
   ],
